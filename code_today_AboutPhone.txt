@@ -108,7 +108,9 @@ class _AboutPhoneState extends State<AboutPhone> {
 
 
 
-new
+                      ORIGINAL CODE WRITTEN BY ME AT THE TIME OF TASK (AboutPhone.dart) 
+                      "  Logic by me "
+              There is another code in which sir taught me another simple way of doing the same task...
 
 
 

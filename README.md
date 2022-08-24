@@ -17,6 +17,15 @@ samples, guidance on mobile development, and a full API reference.
 
 # OWNER/COPYRIGHT:
 Jinsar Ahmed
-Software Engineering Student, Unknown App developer
+# Software Engineering Student, Unknown App developer
 # CEO/OWNER OF (Shaikh Motors and Co.)
 # :]
+
+
+# PROGRESS: 
+
+* Remaining files to upload from Android Studio:
+1) Task3 (incomplete project includes retrieving data from classic models database)
+2) State_Management Folder
+3) pages folder (remaining files to be uploaded upon completion and testing)
+

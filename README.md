@@ -17,5 +17,6 @@ samples, guidance on mobile development, and a full API reference.
 
 # OWNER/COPYRIGHT:
 Jinsar Ahmed
-Software Engineering Student, App developer
+Software Engineering Student, Unknown App developer
+# CEO/OWNER OF (Shaikh Motors and Co.)
 # :]

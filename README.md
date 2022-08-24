@@ -1,6 +1,6 @@
-# My First Flutter Appp
+# My Journey towards learning flutter 
 
-A new Flutter project.
+MY FLUTTER JOURNEY
 
 ## Getting Started
 
